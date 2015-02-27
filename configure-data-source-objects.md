@@ -88,7 +88,7 @@ Now you've configured an external data source, you can select the tables you wis
 
 1. Click **Save**.
 
-	> Note that there is also a standard object name "Order" and that this will result in two tabs with the label of "Orders."  You can change the tab name for your external object by changing the label in the object definition.
+	> Note: there is also a standard object named "Order" and this will result in two tabs with the label of "Orders".  You can change the tab name for your external object by changing the label in the object definition.
 
 ## Step 5: View the External Order Data
 
